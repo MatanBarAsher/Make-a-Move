@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Make a move - Server.props" />
+</Project>

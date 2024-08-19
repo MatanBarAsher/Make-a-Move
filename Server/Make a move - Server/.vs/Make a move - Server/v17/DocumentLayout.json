@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|c:\\users\\matan\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\code\\server\\make a move - server\\make a move - server\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|solutionrelative:make a move - server\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\AppData\\Local\\Temp\\zlmk0au3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|c:\\users\\matan\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\code\\server\\make a move - server\\make a move - server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|solutionrelative:make a move - server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|c:\\users\\matan\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\code\\server\\make a move - server\\make a move - server\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|solutionrelative:make a move - server\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|c:\\users\\matan\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\code\\server\\make a move - server\\make a move - server\\dal\\dbservicesuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|solutionrelative:make a move - server\\dal\\dbservicesuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|c:\\users\\matan\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\code\\server\\make a move - server\\make a move - server\\bl\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|solutionrelative:make a move - server\\bl\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|c:\\users\\matan\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\code\\server\\make a move - server\\make a move - server\\dal\\dbservicesplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|solutionrelative:make a move - server\\dal\\dbservicesplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|c:\\users\\matan\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\code\\server\\make a move - server\\make a move - server\\bl\\matchs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B79B67-BC43-479C-9FDA-D39C8CF776FF}|Make a move - Server\\Make a move - Server.csproj|solutionrelative:make a move - server\\bl\\matchs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\AppData\\Local\\Temp\\zlmk0au3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\AppData\\Local\\Temp\\zlmk0au3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\BL\\Place.cs",
+              "RelativeDocumentMoniker": "Make a move - Server\\BL\\Place.cs",
+              "ToolTip": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\BL\\Place.cs",
+              "RelativeToolTip": "Make a move - Server\\BL\\Place.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA3wCAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:46:29.589Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\BL\\User.cs",
+              "RelativeDocumentMoniker": "Make a move - Server\\BL\\User.cs",
+              "ToolTip": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\BL\\User.cs",
+              "RelativeToolTip": "Make a move - Server\\BL\\User.cs",
+              "ViewState": "AQIAAJECAAAAAAAAAAAowKsCAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:27:53.943Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\matan\\AppData\\Local\\Temp\\zlmk0au3..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\zlmk0au3..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T09:10:44.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlacesController.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\Controllers\\PlacesController.cs",
+              "RelativeDocumentMoniker": "Make a move - Server\\Controllers\\PlacesController.cs",
+              "ToolTip": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\Controllers\\PlacesController.cs",
+              "RelativeToolTip": "Make a move - Server\\Controllers\\PlacesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:23:19.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Matchs.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\BL\\Matchs.cs",
+              "RelativeDocumentMoniker": "Make a move - Server\\BL\\Matchs.cs",
+              "ToolTip": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\BL\\Matchs.cs",
+              "RelativeToolTip": "Make a move - Server\\BL\\Matchs.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:01:17.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBservicesUser.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\DAL\\DBservicesUser.cs",
+              "RelativeDocumentMoniker": "Make a move - Server\\DAL\\DBservicesUser.cs",
+              "ToolTip": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\DAL\\DBservicesUser.cs",
+              "RelativeToolTip": "Make a move - Server\\DAL\\DBservicesUser.cs",
+              "ViewState": "AQIAABAEAAAAAAAAAAAewBYEAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:26:37.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBservicesPlace.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\DAL\\DBservicesPlace.cs",
+              "RelativeDocumentMoniker": "Make a move - Server\\DAL\\DBservicesPlace.cs",
+              "ToolTip": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\DAL\\DBservicesPlace.cs",
+              "RelativeToolTip": "Make a move - Server\\DAL\\DBservicesPlace.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAIAwwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:46:29.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Make a move - Server\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\matan\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D3\u0027\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Code\\Server\\Make a move - Server\\Make a move - Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Make a move - Server\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:32:28.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

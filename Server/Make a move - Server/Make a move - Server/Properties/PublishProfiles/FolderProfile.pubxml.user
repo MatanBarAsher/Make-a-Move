@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\matan\OneDrive\שולחן העבודה\לימודים\שנה ד'\פרויקט גמר\Code\Server\Make a move - Server\Make a move - Server\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-07-14T17:13:35.8191745Z;True|2024-07-14T19:24:23.8198423+03:00;True|2024-07-14T19:20:10.3357889+03:00;True|2024-06-30T12:28:44.1413155+03:00;True|2024-06-09T18:21:19.1329613+03:00;True|2024-06-09T18:05:00.1992109+03:00;True|2024-06-09T18:01:50.0671907+03:00;False|2024-06-09T18:01:36.2640980+03:00;True|2024-06-09T17:57:10.4315070+03:00;True|2024-06-09T17:54:16.8833271+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
